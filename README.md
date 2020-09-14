@@ -1,7 +1,5 @@
 # Projeto Java Web no Spring Boot - DevSuperior
 
-["Link no Youtube"](https://youtu.be/nQr_X62vq-k)
-
 ## Sumário
 - [Sumário](#Sumario)
 - [Pré-requisitos](#Pré-requisitos)
@@ -164,6 +162,8 @@ public class Product implements Serializable {
 - Trocar o código dos repositories: usar JpaRepository<Entity, ID>
 
 - Fim: **salvar um commit**
+
+["Link no Youtube"](https://youtu.be/nQr_X62vq-k)
 
 ## Diagramas
 
