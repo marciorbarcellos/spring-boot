@@ -6,7 +6,7 @@
 - [Passos](#Passos)
 - [Diagramas](#Diagramas)
 
-## Sumário
+## Resumo
 - Criar um simples projeto Java web no Spring Boot e Maven
 - Introdução prática a injeção de dependência no Spring Boot
 - Introdução prática a REST / web services
