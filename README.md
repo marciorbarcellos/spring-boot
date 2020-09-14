@@ -169,8 +169,8 @@ public class Product implements Serializable {
 
 ### Modelo conceitual
 
-![myImage](https://github.com/marciorbarcellos/aulao005/raw/master/domain-model.png)
+![myImage](https://github.com/marciorbarcellos/spring-boot/raw/master/domain-model.png)
 
 ### Instância
 
-![myImage](https://github.com/marciorbarcellos/aulao005/raw/master/domain-instance.png)
+![myImage](https://github.com/marciorbarcellos/spring-boot/raw/master/domain-instance.png)
