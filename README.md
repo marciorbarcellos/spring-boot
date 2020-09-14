@@ -1,12 +1,12 @@
 # Projeto Java Web no Spring Boot - DevSuperior
 
 ## Sumário
-- [Resumo](#Resumoo)
+- [Visão Geral](#Visão Geral)
 - [Links sobre REST](#Links-sobre-REST)
 - [Passos](#Passos)
 - [Diagramas](#Diagramas)
 
-## Resumo
+## Visão Geral
 - Criar um simples projeto Java web no Spring Boot e Maven
 - Introdução prática a injeção de dependência no Spring Boot
 - Introdução prática a REST / web services
