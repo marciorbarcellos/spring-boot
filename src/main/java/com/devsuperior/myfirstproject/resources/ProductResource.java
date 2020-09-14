@@ -27,15 +27,14 @@ public class ProductResource {
 //		list.add(new Product(1L, "Electronics"));
 //		list.add(new Product(2L, "Books"));
 		
-		
-		// *** Buscar automática no ProductRepository e devolver na lista
+		// *** Busca automática no ProductRepository e devolver na lista
 		List<Product> list = categoryRepository.findAll();
 		return ResponseEntity.ok().body(list);
 	}
 
 	@GetMapping(value = "/{id}")
 	public ResponseEntity<Product> findById(@PathVariable Long id) {
-		Product cat = categoryRepository.findById(id);
+		Product cat = categoryRepository.findById(id).get();
 		return ResponseEntity.ok().body(cat);
 	}
 }
