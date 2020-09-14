@@ -1,8 +1,7 @@
 # Projeto Java Web no Spring Boot - DevSuperior
 
 ## Sumário
-- [Sumário](#Sumario)
-- [Pré-requisitos](#Pré-requisitos)
+- [Resumo](#Resumoo)
 - [Links sobre REST](#Links-sobre-REST)
 - [Passos](#Passos)
 - [Diagramas](#Diagramas)
@@ -17,13 +16,6 @@
 - https://restfulapi.net/
 - https://martinfowler.com/articles/richardsonMaturityModel.html
 - https://pt.stackoverflow.com/questions/45783/o-que-%C3%A9-rest-e-restful/45787
-
-## Pré-requisitos
-
-- Lógica de programação
-- OO básica
-  - Composição de objetos (veja: https://github.com/devsuperior/aulao004)
-- BD básico
 
 ## Passos
 
