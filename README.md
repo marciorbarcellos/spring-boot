@@ -1,27 +1,15 @@
-# Seu primeiro projeto Java web no Spring Boot - Aulão #005
-###### DevSuperior - sua carreira dev com fundamento de ensino superior
-
-**Comunidade no Discord**:
-https://discord.gg/SbjpsFv
-
-Não perca as novidades:
-- https://instagram.com/devsuperior.ig
-- https://facebook.com/devsuperior.fb
-- https://youtube.com/devsuperior
-- https://twitter.com/devsuperior
-
-Assista o vídeo desta aula:
+# Projeto Java Web no Spring Boot - DevSuperior
 
 [![Image](https://img.youtube.com/vi/nQr_X62vq-k/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/nQr_X62vq-k)
 
 ## Sumário
-- [O que você vai aprender](#O-que-você-vai-aprender)
+- [Sumário](#Sumario)
 - [Pré-requisitos](#Pré-requisitos)
 - [Links sobre REST](#Links-sobre-REST)
 - [Passos](#Passos)
 - [Diagramas](#Diagramas)
 
-## O que você vai aprender
+## Sumário
 - Criar um simples projeto Java web no Spring Boot e Maven
 - Introdução prática a injeção de dependência no Spring Boot
 - Introdução prática a REST / web services
@@ -43,7 +31,7 @@ Assista o vídeo desta aula:
 
 - Criar projeto Maven usando Spring Initializr e importar no STS
 
-- Sugestão: acrescentar no .gitignore:
+- Acrescentar no .gitignore:
 
 ```yml
 .DS_Store
@@ -181,8 +169,8 @@ public class Product implements Serializable {
 
 ### Modelo conceitual
 
-![myImage](https://github.com/devsuperior/aulao005/raw/master/domain-model.png)
+![myImage](https://github.com/marciorbarcellos/aulao005/raw/master/domain-model.png)
 
 ### Instância
 
-![myImage](https://github.com/devsuperior/aulao005/raw/master/domain-instance.png)
+![myImage](https://github.com/marciorbarcellos/aulao005/raw/master/domain-instance.png)
