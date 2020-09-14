@@ -1,6 +1,6 @@
 # Projeto Java Web no Spring Boot - DevSuperior
 
-[![Image](https://img.youtube.com/vi/nQr_X62vq-k/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/nQr_X62vq-k)
+["Vídeo no Youtube")](https://youtu.be/nQr_X62vq-k)
 
 ## Sumário
 - [Sumário](#Sumario)
